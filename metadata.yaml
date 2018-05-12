@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3091
     wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Mignet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17810#Vie-de-Franklin
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2006-02-20'
 gutenberg_type: Text
