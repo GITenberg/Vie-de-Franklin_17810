@@ -1,0 +1,33 @@
+_repo: Vie-de-Franklin_17810
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mignet, M. (François-Auguste-Marie-Alexis)
+    aliases:
+    - Mignet, M. (Francois-Auguste-Marie-Alexis)
+    - Mignet, François-Auguste
+    - Mignet, F. A. (François-Auguste)
+    birthdate: 1796
+    deathdate: 1884
+    gutenberg_agent_id: '3091'
+    url: http://www.gutenberg.org/2009/agents/3091
+    wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Mignet
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2006-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17810'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Statesmen -- United States -- Biography'
+- !lcc 'E300'
+- !lcsh 'Franklin, Benjamin, 1706-1790'
+title: Vie de Franklin
+url: http://www.gutenberg.org/ebooks/17810
